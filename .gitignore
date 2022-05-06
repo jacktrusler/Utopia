@@ -1,0 +1,11 @@
+.idea
+.idea/
+.shelf
+/*.iml
+/*.ipr
+/*.iws
+/out
+/target
+.sql
+
+/out/*.*
